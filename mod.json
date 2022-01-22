@@ -1,0 +1,16 @@
+{
+   "displayName" : "AdvancedCareerStart",
+   "version" : "1.0",
+   "buildNumber" : 17,
+   "description" : "",
+   "author" : "trueg",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/UI/FrontEnd/FactionSelect/PlayerOriginFactionSelectScreen.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}
