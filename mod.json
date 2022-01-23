@@ -1,16 +1,17 @@
 {
-	"displayName": "AdvancedCareerStart",
-	"version": "1.0",
-	"buildNumber": 24,
-	"description": "",
-	"author": "trueg",
-	"authorURL": "",
-	"defaultLoadOrder": 0,
-	"gameVersion": "1.1.0",
-	"manifest": [
-		"/Game/UI/FrontEnd/FactionSelect/PlayerOriginFactionSelectScreen.uasset"
-	],
-	"steamPublishedFileId": 0,
-	"steamLastSubmittedBuildNumber": 0,
-	"steamModVisibility": "Private"
+   "displayName" : "AdvancedCareerStart",
+   "version" : "1.2",
+   "buildNumber" : 26,
+   "description" : "",
+   "author" : "trueg",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/UI/FrontEnd/Deployment/DropPreperationWidget.uasset",
+      "/Game/UI/FrontEnd/FactionSelect/PlayerOriginFactionSelectScreen.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
 }
