@@ -1,7 +1,7 @@
 {
 	"displayName": "Advanced Career Start",
 	"version": "1.9.0",
-	"buildNumber": 62,
+	"buildNumber": 64,
 	"description": "FEATURES\r\n=======\r\n- Customize starting year\r\n- Customize starting cbills\r\n- Customize starting faction (defines starting planet, etc.)\r\n- Customize number of starting mechs\r\n- Customize the type of randomized starting mechs by battle value.\r\n- Customize the number of starting pilots.\r\n- Customize the randomized starting XP of your pilots\r\n- Random pilot generation with optional level cap max.\r\n\r\nCOMPATIBILITY\r\n=============\r\n- Compatible with pretty much everything (except for MT of course)\r\n- Does not change the existing start options, only adds a new one which can be customized",
 	"author": "trueg",
 	"authorURL": "",
@@ -12,6 +12,6 @@
 		"/Game/UI/FrontEnd/FactionSelect/PlayerOriginFactionSelectScreen.uasset"
 	],
 	"steamPublishedFileId": 2734237267,
-	"steamLastSubmittedBuildNumber": 0,
+	"steamLastSubmittedBuildNumber": 64,
 	"steamModVisibility": "Public"
 }
